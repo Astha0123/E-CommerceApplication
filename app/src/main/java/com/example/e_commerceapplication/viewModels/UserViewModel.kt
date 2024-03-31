@@ -190,7 +190,7 @@ class UserViewModel(application: Application): AndroidViewModel(application) {
         return status
     }
 
-    //retrofit
+    //retrofit to fetch
 
     suspend fun checkPayment(headers : Map<String, String>){
         val res = ApiUtilities.statusAPI.checkStatus(headers, Constants.MERCHANTID, Constants.merchantTransactionId)
