@@ -27,10 +27,6 @@ This application allows users to browse and purchase products using their phone 
   - Track the status of your orders in real-time.
   - View detailed order history and statuses.
 
-- **User Reviews and Ratings**: 
-  - Leave feedback and ratings for products to help other users.
-  - View reviews to make informed purchasing decisions.
-
 - **Bestseller**: 
   - Identify the best-selling products.
   - Discover popular items easily.
@@ -48,4 +44,13 @@ This application allows users to browse and purchase products using their phone 
 ## App Demo
 
 Check out the full demo of the application to see all features in action:
+
+
+https://github.com/Astha0123/E-CommerceApplication/assets/97621624/26db8c9f-5c71-43e3-aa40-3e306b99d2aa
+
+## Scope Of Impovement:
+
+- **Voice Navigation**: Implement voice commands for app navigation and assistance.
+- **Feature Enhancements**: Introduce wishlist, advanced search filters, and product Q&A.
+
 
